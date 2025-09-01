@@ -5,3 +5,5 @@ int soma(int x, int y) {
 int mult(int a, int b) {
 	return a * b;
 }
+
+//oi mundo!

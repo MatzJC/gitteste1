@@ -1,5 +1,5 @@
-int soma(int a, int b) {
-	return a + b;
+int soma(int x, int y) {
+	return x + y;
 }
 
 int mult(int a, int b) {
